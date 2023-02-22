@@ -1,0 +1,21 @@
+ <div class="container text-center"><br>
+  <div class="row"><br>
+  <div class="col"><br>
+      Column-1
+    </div><br>
+    <div class="col"><br>
+      Column-2
+    </div><br>
+    <div class="col"><br>
+      Column-3
+    </div><br>
+    <div class="col"><br>
+      Column-4
+    </div><br>
+    <div class="col"><br>
+      Column-5
+    </div><br>
+    <div class="col"><br>
+      Column-6
+    </div><br>
+  </div><br>
